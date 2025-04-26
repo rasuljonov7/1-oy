@@ -122,6 +122,4 @@
 
 // showVowelsOnly(harflar)
 
-// // ======= //
-// // 9-mashq //
-// // ======= //
+
